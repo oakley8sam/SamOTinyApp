@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\oakle\.android\build-cache\fdb0fa2f79d557de88776585060e7e7cbf8e9fb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\oakle\Documents\AndroidStudioApps\SamOTinyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3f7cc52461b49b3f6cc22a757a5f669698c49b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\oakle\Documents\AndroidStudioApps\SamOTinyApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\oakle\Documents\AndroidStudioApps\SamOTinyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_62ca700da2d397d93fced0772eafd70d8fc138c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\oakle\Documents\AndroidStudioApps\SamOTinyApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf7c00b1f824a731b51e43332739ec2bf5030031">
+        <dex dex="C:\Users\oakle\Documents\AndroidStudioApps\SamOTinyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f777d4e3cbce7bcc7d9a9aa194a4d96e88f67e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\oakle\.android\build-cache\a2b4931eaa52b2ef4ef91579784a33726c141dab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\oakle\Documents\AndroidStudioApps\SamOTinyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e0d89f28b08ce5957786102d6fd84e8180b0473\classes.dex" />
+    </item>
+
+</items>
