@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.oakley8sam.samotinyapp2.SecondScreen"
+    tools:showIn="@layout/activity_main2">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="8dp">
+
+        <SeekBar
+            android:id="@+id/seekbar1"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:max="100"
+            android:progress="0" />
+
+        <TextView
+            android:id="@+id/barFeedback"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Slide bar all the way to the right to return to previous screen" />
+
+        <TimePicker
+            android:id="@+id/EstClock"
+            android:layout_width="match_parent"
+            android:layout_height="99dp" />
+
+        <TextView
+            android:id="@+id/tzone1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Time Zone: EST" />
+
+        <TimePicker
+            android:id="@+id/PstClock"
+            android:layout_width="match_parent"
+            android:layout_height="103dp" />
+
+        <TextView
+            android:id="@+id/tzone2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Time Zone: PST" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
